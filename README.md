@@ -56,5 +56,4 @@ cervical-cancer-prediction/
 ├── scaler.pkl
 ├── requirements.txt
 ├── README.md
-└── dataset/
-    └── cervical-cancer.csv
+
